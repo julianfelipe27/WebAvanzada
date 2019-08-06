@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.cbc08ef0.chunk.css",
-    "main.js": "/portafolio/static/js/main.5ed4a90f.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.5ed4a90f.chunk.js.map",
-    "runtime~main.js": "/portafolio/static/js/runtime~main.41300385.js",
-    "runtime~main.js.map": "/portafolio/static/js/runtime~main.41300385.js.map",
-    "static/js/2.a1db4a4d.chunk.js": "/portafolio/static/js/2.a1db4a4d.chunk.js",
-    "static/js/2.a1db4a4d.chunk.js.map": "/portafolio/static/js/2.a1db4a4d.chunk.js.map",
-    "index.html": "/portafolio/index.html",
-    "precache-manifest.d43843d131b9f45b043dac014223b166.js": "/portafolio/precache-manifest.d43843d131b9f45b043dac014223b166.js",
-    "service-worker.js": "/portafolio/service-worker.js",
-    "static/css/main.cbc08ef0.chunk.css.map": "/portafolio/static/css/main.cbc08ef0.chunk.css.map",
-    "static/media/location.png": "/portafolio/static/media/location.3d8c47dd.png",
-    "static/media/phone.png": "/portafolio/static/media/phone.8b18a7bb.png",
-    "static/media/profile.PNG": "/portafolio/static/media/profile.43df9bbd.PNG",
-    "static/media/xperience.jpg": "/portafolio/static/media/xperience.6d2c2c99.jpg"
+    "main.css": "/WebAvanzada/static/css/main.cbc08ef0.chunk.css",
+    "main.js": "/WebAvanzada/static/js/main.1da27c6c.chunk.js",
+    "main.js.map": "/WebAvanzada/static/js/main.1da27c6c.chunk.js.map",
+    "runtime~main.js": "/WebAvanzada/static/js/runtime~main.ec28febd.js",
+    "runtime~main.js.map": "/WebAvanzada/static/js/runtime~main.ec28febd.js.map",
+    "static/js/2.a1db4a4d.chunk.js": "/WebAvanzada/static/js/2.a1db4a4d.chunk.js",
+    "static/js/2.a1db4a4d.chunk.js.map": "/WebAvanzada/static/js/2.a1db4a4d.chunk.js.map",
+    "index.html": "/WebAvanzada/index.html",
+    "precache-manifest.a768b9efe1e95fdf95734410de82c6f2.js": "/WebAvanzada/precache-manifest.a768b9efe1e95fdf95734410de82c6f2.js",
+    "service-worker.js": "/WebAvanzada/service-worker.js",
+    "static/css/main.cbc08ef0.chunk.css.map": "/WebAvanzada/static/css/main.cbc08ef0.chunk.css.map",
+    "static/media/location.png": "/WebAvanzada/static/media/location.3d8c47dd.png",
+    "static/media/phone.png": "/WebAvanzada/static/media/phone.8b18a7bb.png",
+    "static/media/profile.PNG": "/WebAvanzada/static/media/profile.43df9bbd.PNG",
+    "static/media/xperience.jpg": "/WebAvanzada/static/media/xperience.6d2c2c99.jpg"
   }
 }
