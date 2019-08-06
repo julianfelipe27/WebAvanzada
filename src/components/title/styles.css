@@ -1,0 +1,16 @@
+.titleContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width:100%;
+}
+.titleContainer .icon{
+    height: 25px;
+    width: 25px;
+}
+.titleContainer h3{
+    margin-left:10px;
+    font-family: 'Oswald';
+    color:rgb(24, 156, 139);
+}
