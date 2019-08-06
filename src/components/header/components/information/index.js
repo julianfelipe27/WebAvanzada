@@ -8,9 +8,9 @@ import './styles.css'
 const Information = () => {
     return (
         <div className='informationContainer'>
-            <ElementInfo icon={location} text='Seattle (WA), USA' color='white'/>
-            <ElementInfo icon={phone} text='12 98123-4567' color='white'/>
-            <ElementInfo icon={mail} text='david.grohl@gmail.com'color='white'/>
+            <ElementInfo icon={location} text='Cali (Valle), COLOMBIA' color='white'/>
+            <ElementInfo icon={phone} text='57 3177533998' color='white'/>
+            <ElementInfo icon={mail} text='juligury@gmail.com'color='white'/>
         </div>
     );
 };

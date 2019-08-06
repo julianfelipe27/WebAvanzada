@@ -23,32 +23,31 @@ function App() {
       </section>
       <section className='body'>
       <div className='description'>
-      <ElementInfo icon={user} text='Proactive and responsible. More than 5 years experience in web development.
-      Member in open source communites such as GitHub ' color='black'/>
+      <ElementInfo icon={user} text='Proactive and responsible. More than 3 years experience in web development.
+      Member in open source communites such as GitHub' color='black'/>
       </div>
       <div className='xperienceContainer'>
         <div className='academicContent'>
           <div>
             <Title icon={graduationCap} text='EDUCATION' />
             <div className='infoContent'>
-            <p className='subTitle'>University "Foo Fighter's" (UNIFF), Seattle (WA), USA</p>
-            <p className='text'>Master's Degree in Computer Science - 2015</p>
+            <p className='subTitle'>ICESI University, Cali (Valle), COLOMBIA</p>
+            <p className='text'>Professional- 2020</p>
             </div>
             <div className='infoContent'>
-            <p className='subTitle'>University "Foo Fighter's" (UNIFF), Seattle (WA), USA</p>
-            <p className='text'>Bachelor's Degree in Computer Science - 2012</p>
+            <p className='subTitle'>ICESI University, Cali (Valle), COLOMBIA</p>
+            <p className='text'>Master's Degree in Computer Science - 2023</p>
             </div>
             <Title icon={pencil} text='COURSES & CERTIFICATES' />
-            <p> <span className='subTitle'>TOEFL </span>: 2016</p>
-            <p> <span className='subTitle'>Systems for Internet </span>; Training Center Computer Vision: 2013</p>
-            <p> <span className='subTitle'>UX Designer </span>; Alura: 2017</p>
+            <p> <span className='subTitle'>Web Designer </span>: 2018</p>
+            <p> <span className='subTitle'>UX Designer </span>: 2019</p>
             <Title icon={hearth} text='VOLUNTEER WORKS' />
             <div className='infoContent'>
-            <p className='subTitle'>Volunteer on St. Mary's Hospital</p>
-            <p className='text'>Stocked nursery and children's ward with supplies</p>
+            <p className='subTitle'>Volunteer on recreational center Olímpico</p>
+            <p className='text'>Taking care of kids between 6 and 12 years old</p>
             </div>
             <div className='infoContent'>
-            <p className='subTitle'>Volunteer Teacher on Lorem's School</p>
+            <p className='subTitle'>Volunteer on Presentation school</p>
             <p className='text'>Basic programming classes for teenagers</p>
             </div>
           </div>
@@ -58,40 +57,42 @@ function App() {
         <Title icon={suitcase} text='COURSES & CERTIFICATES' />
         </div>
         <div className='infoContent'>
-        <p className='subTitle'>Foo Fighters S.A.</p>
+        <p className='subTitle'>ICESI University</p>
         <p className='subTitle'>Front-end Developer</p>
-        <p className='text'>A million miles away your signal in the distance to whom it may concern</p>
-        <p className='foot'>October 1994 - present</p>
+        <p className='text'>Learning basics web design and the use of different frameworks like
+        React, Vuejs, Angular etc.</p>
+        <p className='foot'>December 2018 - present</p>
         </div>
          <div className='infoContent'>
-        <p className='subTitle'>Nirvana LTDA</p>
+        <p className='subTitle'>ICESI University</p>
         <p className='subTitle'>Full-stack Web Developer</p>
-        <p className='text'>I've got another confession to make I'm your fool. Everyone's got their
-        chains to break holding you. Were you born to resist or be abused</p>
-        <p className='foot'>November 1897 - April 1994</p>
+        <p className='text'>I've learned some programming languages like Java, Python, C# etc.
+        and I was applied them in many projects</p>
+        <p className='foot'>August 2016 - Present</p>
         </div>
         <div className='infoContent'>
-        <p className='subTitle'>Garage Band</p>
-        <p className='subTitle'>Assist Development Intern</p>
-        <p className='text'>This indecision got me climbing up the wall I've been changing cheating gravity and waiting on the fall</p>
-        <p className='foot'>January 1981 - December 1990</p>
+        <p className='subTitle'>ICESI University</p>
+        <p className='subTitle'>Requirements analyst</p>
+        <p className='text'>I know how is the process to understand fully a problem, and that is not easy to do, but I've got a lot of experience so
+        I can help to you</p>
+        <p className='foot'>January 2018 - Present</p>
         </div>
         </div>
       </div>
       <div className='moreInfo'>
         <div className='infoContent'>
         <Title icon={translate} text='LANGUAGES'/>
-        <p> <span className='subTitle'>English:</span> Native</p>
-        <p> <span className='subTitle'>Italian:</span> Intermediate</p>
+        <p> <span className='subTitle'>Spanish:</span> Native</p>
+        <p> <span className='subTitle'>English:</span> Intermediate</p>
         </div>
         <div className='infoContent'>
         <Title icon={earth} text='ON WEB'/>
-        <p>linkedin.com/in/david-grohl</p>
-        <p>behance.net/davidgrohl</p>
+        <p>facebook.com/juligury27</p>
+        <p>instagram.com/julianfgr</p>
         </div>
         <div  className='infoContent'>
         <Title icon={star} text='INFORMATIONS'/>
-        <p>Disponibility for travels Rotaract Club Member</p>
+        <p>Planing to take scholar practice abroad</p>
         </div>
       </div>
       <div className='skills'>

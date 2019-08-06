@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Name from './components/name'
 import Information from './components/information'
-import profile from './img/profile.PNG'
+import profile from './img/profile.jpg'
 import './styles.css'
 
 class Header extends Component {

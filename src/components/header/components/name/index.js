@@ -3,8 +3,8 @@ import './styles.css'
 const Name = props => {
     return (
         <div className='nameContainer'>
-            <h2>David Eric Grohl</h2>
-            <h6>Front-end Developer, UI/UX Designer</h6>
+            <h2>Julian Felipe Gutiérrez</h2>
+            <h6>Fullstack-Developer</h6>
         </div>
     );
 };
