@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/WebAvanzada/static/css/main.cbc08ef0.chunk.css",
-    "main.js": "/WebAvanzada/static/js/main.1da27c6c.chunk.js",
-    "main.js.map": "/WebAvanzada/static/js/main.1da27c6c.chunk.js.map",
+    "main.js": "/WebAvanzada/static/js/main.cc29b440.chunk.js",
+    "main.js.map": "/WebAvanzada/static/js/main.cc29b440.chunk.js.map",
     "runtime~main.js": "/WebAvanzada/static/js/runtime~main.ec28febd.js",
     "runtime~main.js.map": "/WebAvanzada/static/js/runtime~main.ec28febd.js.map",
     "static/js/2.a1db4a4d.chunk.js": "/WebAvanzada/static/js/2.a1db4a4d.chunk.js",
     "static/js/2.a1db4a4d.chunk.js.map": "/WebAvanzada/static/js/2.a1db4a4d.chunk.js.map",
     "index.html": "/WebAvanzada/index.html",
-    "precache-manifest.a768b9efe1e95fdf95734410de82c6f2.js": "/WebAvanzada/precache-manifest.a768b9efe1e95fdf95734410de82c6f2.js",
+    "precache-manifest.8bcf4999b3f9113ec6ac106dfb1cd3e0.js": "/WebAvanzada/precache-manifest.8bcf4999b3f9113ec6ac106dfb1cd3e0.js",
     "service-worker.js": "/WebAvanzada/service-worker.js",
     "static/css/main.cbc08ef0.chunk.css.map": "/WebAvanzada/static/css/main.cbc08ef0.chunk.css.map",
     "static/media/location.png": "/WebAvanzada/static/media/location.3d8c47dd.png",
     "static/media/phone.png": "/WebAvanzada/static/media/phone.8b18a7bb.png",
-    "static/media/profile.PNG": "/WebAvanzada/static/media/profile.43df9bbd.PNG",
+    "static/media/profile.jpg": "/WebAvanzada/static/media/profile.6944ed42.jpg",
     "static/media/xperience.jpg": "/WebAvanzada/static/media/xperience.6d2c2c99.jpg"
   }
 }
